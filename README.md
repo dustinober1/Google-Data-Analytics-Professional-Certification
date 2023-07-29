@@ -1,1 +1,1 @@
-# Google-Data-Analytics-Professional-Certification
+# Google: Data Analytics Professional Certification
